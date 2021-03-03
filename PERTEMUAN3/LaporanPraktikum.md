@@ -123,4 +123,4 @@ menghitung luas segitiga
 
             -- kode output main
 
-    <img src="./tugas5-output.JPG>
+    <img src="./tugas5-output.JPG">
