@@ -35,7 +35,7 @@
 <img src= "classdiagram.jpg" >
 
     - ss ss nomor 2
-<img src= "videoGame.jpg">
+<img src= "videoGame.jpg" >
 
 3. - ss kode nomor 3
 

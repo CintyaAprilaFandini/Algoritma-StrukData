@@ -19,17 +19,17 @@
 2. contohnya
 
 
-    <img src="./nomor2_pertanyaan2.jpg">
+    <img src="./nomor2_pertanyaan2.JPG">
 
 3. akan memunculkan eror karena tidak terdapat objek index ke-5. maka harus membuat objek terlebih dahulu agar tidak eror.
 
 4. modifikasi program agar length arrray menjadi inputan Scanner
 
                 -kode modifikasi 
-    <img src="./nomor3_pertanyaan2.jpg"> 
+    <img src="./nomor3_pertanyaan2.JPG"> 
 
                 - hasil Running
-    <img src="./nomor3output_pertanyaan2.jpg">
+    <img src="./nomor3output_pertanyaan2.JPG">
 5. boleh jika terjadi duplikasi instansiasi array of objek, karena tidak berpengaruh tetapi nantinya nilainya akan sama
 
 ## 3.4.3 pertanyaan
@@ -38,22 +38,22 @@
 membuat konstruktor dengan parameter alas dan tinggi segitiga,dan konstruktor default untuk
 menghitung luas segitiga
 2. Diketahui terdapat class segitiga 
-<img src="./nomor2_pertanyaan3.jpg">
+<img src="./nomor2_pertanyaan3.JPG">
 
 3. menambahkan konstuktor pada class segitiga
-<img src="./nomor3_pertanyaan3.jpg">
+<img src="./nomor3_pertanyaan3.JPG">
 
 4. menambahkan method pada class segitiga
-<img src="./nomor4_pertanyaan3.jpg">
+<img src="./nomor4_pertanyaan3.JPG">
 
 5. buat Array segitga sgArray berisi 4 elemen
 
-    <img src="./nomor5_pertanyaan3.jpg">
+    <img src="./nomor5_pertanyaan3.JPG">
         --
 
                 -hasil output
 
-    <img src="./nomor5output_pertanyaan3.jpg">
+    <img src="./nomor5output_pertanyaan3.JPG">
 
 
 ## 3.5 Latihan Praktikum
@@ -63,64 +63,64 @@ menghitung luas segitiga
 
         -- kode class kubus
 
-    <img src="./kubus1.jpg">
+    <img src="./kubus1.JPG">
 
         -- kode class bola
 
-    <img src="./bola1.jpg">
+    <img src="./bola1.JPG">
 
         -- kode class main
 
-    <img src="./tugas1.jpg">
+    <img src="./tugas1.JPG">
 
         --kode output main
 
-    <img src="./tugas1-output.jpg">
+    <img src="./tugas1-output.JPG">
 
 2.      --kode class tanah 
 
-    <img src="./tanah2.jpg">
+    <img src="./tanah2.JPG">
 
         --kode class main
 
-    <img src="./tugas2.jpg">
+    <img src="./tugas2.JPG">
 
         --kode output main
 
-    <img src="./tugas2-output.jpg"> 
+    <img src="./tugas2-output.JPG"> 
 
 3.      --kode class tanah 
 
-    <img src="./tanah3.jpg">
+    <img src="./tanah3.JPG">
 
         --kode class main
 
-    <img src="./tugas3.jpg">
+    <img src="./tugas3.JPG">
 
         -- kode ouput main
 
-    <img src="./tanah3-output.jpg">
+    <img src="./tanah3-output.JPG">
 
 4.      --kode class mahasiswa 
 
-    <img src="./mahasiswa4.jpg">
+    <img src="./mahasiswa4.JPG">
 
         -- kode class main
 
-    <img src="./tugas4.jpg">
+    <img src="./tugas4.JPG">
 
         -- kode output main
 
-    <img src="./tugas4-output.jpg">
+    <img src="./tugas4-output.JPG">
 
 5.      -- kode class mahasiswa 
 
-    <img src="./mahasiswa5.jpg">
+    <img src="./mahasiswa5.JPG">
 
         -- kode class main
 
-    <img src="./tugas5.jpg">
+    <img src="./tugas5.JPG">
 
             -- kode output main
 
-    <img src="./tugas5-output.jpg">
+    <img src="./tugas5-output.JPG>
