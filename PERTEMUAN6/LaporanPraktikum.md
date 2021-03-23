@@ -3,13 +3,13 @@
 ## 5.2.3 pertanyaan
 
 1. method proses bubble sort terdapat pada method bubbleSort(), pada class DaftarMahasiswaBerprestasi pada line ke-34 sampai line ke-46
-<img src = "./1.jpg" >
+<img src = "./1.JPG" >
 
 2. method proses selection sort tidak ada pada praktikum 5.2.1
 
 3. proses swap adalah proses dimana membandingkan serta menukarkan/mengurutkan data pada proses sorting hingga selesai. 
 untuk potongan program swap terdapat pada class DaftarMahasiswaBerprestasi pada line ke-39 sampai line ke-42
-<img src = "./2.jpg">
+<img src = "./2.JPG">
 
 4. pada method bubbleSort(), terdapat baris program seperti dimodul, proses tersebut pada line ke 27 adalah proses membandingkan 2 nilai baris, dan untuk line ke 28-34 untuk melaukan proses swap apabila nilai yang akan dibandingkan belum terurut dari yang terkecil, sehingga proses swap dilakukan
 
@@ -34,39 +34,39 @@ untuk potongan program swap terdapat pada class DaftarMahasiswaBerprestasi pada 
 
 ## 5.4.3
 1. --> kode program untuk insertionSort Ascending
-<img src = "./3.jpg">
+<img src = "./3.JPG">
 --> hasil running program
-<img src = "./4.jpg">
+<img src = "./4.JPG">
 
 ## 5.5.3 Latihan Soal
 1. --> kode program tiket
-<img src = "./11.jpg">
+<img src = "./11.JPG">
 
 --> kode program tiketService
-<img src = "./12.jpg">
-<img src = "./13.jpg">
+<img src = "./12.JPG">
+<img src = "./13.JPG">
 
 --> kode program mainTiket
-<img src = "./14.jpg">
+<img src = "./14.JPG">
 
 
 2. --> kode program
 --> kode Premierleague
-<img src = "./8.jpg">
+<img src = "./8.JPG">
 
 --> kode PremiertLeagueService
-<img src = "./9.jpg">
+<img src = "./9.JPG">
 
 --> kode mainLeague
-<img src = "./10.jpg">
+<img src = "./10.JPG">
 
 
 --> hasil running program
     --> sebelum disorting
-    <img src = "./5.jpg">
+    <img src = "./5.JPG">
 
 --> setelah disorting menggunakan asc
-    <img src = "./6.jpg">
+    <img src = "./6.JPG">
 
 --> setelah disorting menggunakan dsc
-    <img src = "./7.jpg">
+    <img src = "./7.JPG">
