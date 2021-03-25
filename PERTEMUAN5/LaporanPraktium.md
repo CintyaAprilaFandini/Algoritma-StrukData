@@ -18,12 +18,14 @@ contohnya :
 <img src = "./2.JPG">
 
 4.  kode program pengecekan waktu eksekusi
+
 <img src = "./3.JPG">
 
     --> hasil running pengecekan waktu
 <img src = "./4.JPG">
 
 5. Hasil running pengecekan waktu diatas 20 angka
+
 <img src = "./5.JPG">
 
 ## 4.3.3 pertanyaan
@@ -36,6 +38,7 @@ contohnya :
 pembagian terhadap variuable n, yakni di bagi 2 kemudian dikalikan dengan method itu sendiri dan kemudiankalikan lagi dengan variable a. namun apabila terdapat suatu bilangan genap maka program akan melakukan return/nilai balik dan di dalam return tersebut dilakukan pembagian terhadap variable n, yang mana variable n di bagi 2 dan kemudian di kalikan dengan method itu sendiri namun tidak dikalikan dengan nilai daripada variable a.
 
 3. tahap combine sudah terjadi pada kode tersebut dan lebih tepatnya tahapan tersebut dilakukan pada class pangkat yang mana lebih tepatnya terletak pada method pangkatDC. dan ditunjukkan oleh gambar di bawah ini terdapat pada line ke-30
+
 <img src = "./6.JPG">
 
 4. modifikasi proses pengisian atribut dilakukan dengan konstruktor
@@ -43,12 +46,14 @@ pembagian terhadap variuable n, yakni di bagi 2 kemudian dikalikan dengan method
 --> kode program modifikasi 
 <img src = "./7.JPG">
 
+
 <img src = "./8.JPG">
 
 --> hasil running program 
 <img src = "./9.JPG">
 
 5. menambah menu agar salah satu method yang terpilih
+
 --> kode program tambah menu 
 <img src = "./10.JPG">
 
@@ -74,6 +79,7 @@ pembagian terhadap variuable n, yakni di bagi 2 kemudian dikalikan dengan method
     <img src = "./12.JPG">
 
  
+
     <img src = "./13.JPG">
 
 
@@ -85,32 +91,35 @@ pembagian terhadap variuable n, yakni di bagi 2 kemudian dikalikan dengan method
 
 2. --> kode program
 
-<img src = "./15.JPG">
+    <img src = "./15.JPG">
 
     -->Hasil running 
 
-<img src = "./18.JPG">
+    <img src = "./18.JPG">
 
 
 
 3. -->kode program class
 
-<img src = "./21.JPG">
+    <img src = "./21.JPG">
 
 -->kode program main
-
-<img src = "./16.JPG">
+    <img src = "./16.JPG">
 
 
 -->Hasil running 
-
 <img src = "./17.JPG">
 
 
-4. -->kode program 
+4. -->kode program class
 
-<img src = "./19.JPG">
+    <img src = "./19.JPG">
 
--->Hasil running 
 
-<img src = "./20.JPG">
+    --> kode program main
+    <img src = "./22.JPG">
+
+
+    -->Hasil running 
+
+    <img src = "./20.JPG">
