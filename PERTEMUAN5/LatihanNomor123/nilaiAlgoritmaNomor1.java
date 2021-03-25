@@ -11,7 +11,7 @@ public class nilaiAlgoritmaNomor1 {
         this.nilaiKuis = nq;
         this.nilaiUTS = nut;
         this.nilaiUAS = una;
-    }
+    } 
     double hitungTotalNilai(){
         total = (nilaiTugas * 0.3) + (nilaiKuis * 0.2) + (nilaiUTS * 0.2) + (nilaiUAS * 0.3);
         return total;

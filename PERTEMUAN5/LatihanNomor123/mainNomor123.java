@@ -2,7 +2,7 @@ package PERTEMUAN5.LatihanNomor123;
 import java.util.Scanner;
 public class mainNomor123{
     public static void main(String[] args){
-    Scanner tya = new Scanner(System.in);
+ Scanner tya = new Scanner(System.in);
     System.out.print("Masukkan Jumlah Mahasiswa : ");
     int n = tya.nextInt();
     nilaiAlgoritmaNomor1[] cinArray= new nilaiAlgoritmaNomor1[n];
@@ -36,4 +36,4 @@ public class mainNomor123{
     System.out.println("----------------------------------terimakasih-----------------------------------");
     }
     
-} 
+}

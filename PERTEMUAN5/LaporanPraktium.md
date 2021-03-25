@@ -79,22 +79,38 @@ pembagian terhadap variuable n, yakni di bagi 2 kemudian dikalikan dengan method
 
 ## Latihan soal 
 1. --> kode program 
+
 <img src = "./14.JPG">
 
+
 2. --> kode program
+
 <img src = "./15.JPG">
 
     -->Hasil running 
+
 <img src = "./18.JPG">
 
-3. -->kode program 
+
+
+3. -->kode program class
+
+<img src = "./21.JPG">
+
+-->kode program main
+
 <img src = "./16.JPG">
 
+
 -->Hasil running 
+
 <img src = "./17.JPG">
 
+
 4. -->kode program 
+
 <img src = "./19.JPG">
 
 -->Hasil running 
+
 <img src = "./20.JPG">
