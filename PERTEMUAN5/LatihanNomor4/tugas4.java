@@ -8,7 +8,7 @@ public class tugas4 {
 
     public int hitungHasil(int js, int k1, int k2, int k3, int k4){
         if(nilai == 5){
-            return = 1;
+            return 1;
         }if (nilai == 1 && k1 >0) {
             array[control] = nilai;
             control++;
