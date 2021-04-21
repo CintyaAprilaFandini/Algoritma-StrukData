@@ -8,10 +8,10 @@
 2. maksud dari kode tersebut adalah apabila rear sudah beada pada max -1, maka jika ingin menambahkan data selanjutnya akan dimasukkan pada index ke-0
 
 3. berada pada : 
-<img src = "./1.JPG">
+<img src = "./1.jpg">
 
 4. berada pada :
-<img src = "./2.JPG">
+<img src = "./2.jpg">
 
 5. maksud dari kode tersebut adalah apabila front sudah berada pada max -1, maka jika ingin menambahkan data selanjutnya akan dimasukkan pada index ke-0
 
@@ -26,15 +26,15 @@
 2. program eror, karena konstruktor yang digunakan adalah konstruktor berparameter, sehingga perlu diiskan nilai pada kurung tersebut.
 
 3. terdapat pada : 
-<img src = "./3.JPG">
+<img src = "./3.jpg">
 
 4. modifikasi program 
 
 - method peekRear
-<img src = "./4.JPG">
+<img src = "./4.jpg">
 
 - class cek antrian paling belakang
-<img src = "./5.JPG">
+<img src = "./5.jpg">
 
 - hasil running 
-<img src = "./6.JPG">
+<img src = "./6.jpg">
