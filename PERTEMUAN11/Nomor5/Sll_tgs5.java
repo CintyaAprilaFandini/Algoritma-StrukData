@@ -98,15 +98,5 @@ public class Sll_tgs5 {
         System.out.println("Data nasabah : \n" + tmp.noRek + " " + tmp.nama + " "
                 + tmp.alamat);
     }
-
-    public void clear(int jmlh) {
-        if (!isEmpty()) {
-            front = rear = null;
-            jmlh = 0;
-            System.out.println("Antrian berhasil dikosongkan");
-        } else {
-            System.out.println("Antrian masih kosong");
-        }
-    }
     
 }
