@@ -24,7 +24,7 @@ dikembalikan nilai index yang menandakan index ke berapa node tersebut
 
 ## Tugas 
 1. penambahan method insertBefore
-- <img src = "./2/JPG">
+- <img src = "./2.JPG">
     - hasil running 
 - <img src = "./1.JPG">
 
