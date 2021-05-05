@@ -36,4 +36,17 @@
 
 3. perbedaan karakteristik fungsi add pada double linked list ada dua null atau ruang kosong yang disiapkan setelah menambah node, sedangkan pada single list hanya ada satu ruang kosong yang disiapkan setelah menambah node
 
-4. kode pertama merupakan pengecekan apakah node kosong jika size atau banyak data = 0, maka akan mereturn true sedangkan pada kode yang kedua, mengecek dengan cara apakah data paling awal kosong atau sama dengan null. ßß
+4. kode pertama merupakan pengecekan apakah node kosong jika size atau banyak data = 0, maka akan mereturn true sedangkan pada kode yang kedua, mengecek dengan cara apakah data paling awal kosong atau sama dengan null. 
+
+## latihan tugas 
+1. output 
+<img src = "./1.JPG">
+
+2. output 
+<img src = "./2.JPG">
+
+3. output
+<img src = "./3.JPG">
+
+4. output
+<img src = "./4.JPG">
