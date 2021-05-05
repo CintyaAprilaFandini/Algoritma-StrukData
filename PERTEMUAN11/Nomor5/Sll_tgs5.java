@@ -98,5 +98,5 @@ public class Sll_tgs5 {
         System.out.println("Data nasabah : \n" + tmp.noRek + " " + tmp.nama + " "
                 + tmp.alamat);
     }
-    
+
 }

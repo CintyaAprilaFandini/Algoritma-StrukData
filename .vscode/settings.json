@@ -1,9 +1,13 @@
 {
     "java.project.sourcePaths": [
+        "PERTEMUAN12/Nomor3",
+        "PERTEMUAN12/Nomor2",
+        "PERTEMUAN12/Nomor1",
+        "PERTEMUAN11/Nomor5",
         "PERTEMUAN11/Nomor4",
         "PERTEMUAN11/Nomor3",
         "PERTEMUAN11/Nomor2",
         "PERTEMUAN11/Nomor 3",
-        "PERTEMUAN11/Nomor5"
+        "PERTEMUAN12/Nomor4"
     ]
 }
